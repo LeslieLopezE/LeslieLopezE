@@ -1,8 +1,6 @@
-- 👋 Hi, my name is Leslie Stefany Lopez Espinoza
-- 👀 I’m an Industrial Engineer with an MBA degree, a graduate certificate in data analytics and certification in agile project management (Professional SCRUM Product Owner).  I earned experience analyzing business data, managing projects, and delivering products, actionable insights and recommendations in the retail and consulting industries.
-- 🌱 I’m currently seeking to switch my career to focus on Big Data and Data Analytics to help organizations maximize performance through statistical analysis and accurate machine learning/predictive modeling, sentiment analysis, data mining.
-- 💞️ I’m looking to collaborate on SAS, Python, Modeling, Data Prep, SQL, Vizualizations in Tableau
-- 📫 Reach me at lesita.lopezespinoza@gmail.com
+Master of Business Administration (MBA). Engineer with graduate data analytics and data science certificates and Professional Scrum Product Owner certification. I earned experience working with big data and delivering business intelligence and analytics solutions, products, and strategic insights in the financial, consulting, and retail industries. 
+
+I am currently looking to become a Senior Analyst (Sr Analyst) / Data Scientist. I aim to continue expanding my career and help organizations maximize value and performance by extracting actionable insights and developing accurate machine learning (AI) models. 
 
 <!---
 LeslieLopezE/LeslieLopezE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
